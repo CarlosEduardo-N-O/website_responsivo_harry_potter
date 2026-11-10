@@ -1,0 +1,8 @@
+1440px: sem rolagem horizontal; layout Flexbox; sete livros presentes.
+768px: sem rolagem horizontal; layout Flexbox; sete livros presentes.
+390px: sem rolagem horizontal; layout Flexbox; sete livros presentes.
+320px: sem rolagem horizontal; layout Flexbox; sete livros presentes.
+Menu móvel abre e fecha; Escape e seleção de seção funcionam.
+Âncoras internas verificadas; todas as imagens carregam.
+Manifesto validado; service worker ativo; página e imagens disponíveis offline após primeira visita.
+Nenhum erro JavaScript nos testes automatizados em Microsoft Edge.
